@@ -1,0 +1,12 @@
+@font-face {
+  font-family: "rockybilly";
+  src: url("/safariboyz/wp-content/uploads/useanyfont/2467Rockybilly.woff2")
+      format("woff2"),
+    url("/safariboyz/wp-content/uploads/useanyfont/2467Rockybilly.woff")
+      format("woff");
+  font-display: auto;
+}
+
+.rockybilly {
+  font-family: "rockybilly" !important;
+}

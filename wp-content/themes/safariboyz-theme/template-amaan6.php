@@ -1,0 +1,352 @@
+<?php
+
+/* Template Name: Amaan6 */
+get_header();
+
+?>
+
+
+<section class="pages-hero package-det">
+      <div class="home-page-slider">
+        <img src="<?php bloginfo('template_directory');?>/images//amaan6.jpeg" alt="amaan6" class="home-page-img" />
+        <img
+          src="<?php bloginfo('template_directory');?>/images//royalzanzibar1.jpg"
+          alt="amaan6"
+          class="home-page-img"
+        />
+        <img
+          src="<?php bloginfo('template_directory');?>/images//royalzanzibar2.jpg"
+          alt="amaan6"
+          class="home-page-img"
+        />
+        <img
+          src="<?php bloginfo('template_directory');?>/images//royalzanzibar3.jpg"
+          alt="amaan6"
+          class="home-page-img"
+        />
+        <img
+          src="<?php bloginfo('template_directory');?>/images//royalzanzibar4.jpg"
+          alt="amaan6"
+          class="home-page-img"
+        />
+      </div>
+      <div class="home-page-navi">
+        <span class="active"></span>
+        <span></span>
+        <span></span>
+        <span></span>
+        <span></span>
+      </div>
+      <div class="container flex flex-cl">
+        <h1>amaan Bungalows and dhow palace</h1>
+        <span class="days">5 NIGHTS / 6 DAYS</span>
+        <a href="#details" class="hero-btn btn"
+          >Read more <i class="fa-solid fa-arrow-down"></i
+        ></a>
+      </div>
+    </section>
+    <!-- End Header section -->
+    <!-- Start About Section -->
+    <section class="details" id="details">
+      <img class="bg-img" src="<?php bloginfo('template_directory');?>/images//bg2.png" alt="" />
+      <div class="container">
+        <h2>ITINERARY</h2>
+        <p class="det-top-p">
+          Enjoy an exceptional 5-night, 6-day Zanzibar package with
+          accommodation at the beautiful Amaan Bungalows, offering a memorable
+          experience while you explore the dazzling sands with turquoise waters
+          of the Nungwi Beach and Dhow Palace Hotel, an elegant boutique hotel
+          in the heart of historic Stone Town. This tour starts with pick-up and
+          ends with drop-off at the Abeid Amani Karume International Airport.
+          The typical tour itinerary is listed below:
+        </p>
+        <div class="itinerary">
+          <div class="itinerary-content">
+            <div class="way">
+              <span class="day">day 1</span>
+              <h3>
+                Abeid Amani Karume International Airport - Amaan Bungalows
+              </h3>
+              <p>
+                Your driver reports at Abeid Amani Karume International Airport
+                for pick-up and road transfer to Amaan Bungalows. Enjoy the
+                drive across the beautiful island on your way to the hotel.
+                Check-in at the hotel for an overnight stay.
+              </p>
+              <p>
+                Amaan Bungalows is a laid-back beach hotel with exquisite
+                surroundings that offers a delightful and memorable holiday
+                experience by the Nungwi Beach and provides a wide range of
+                facilities and leisure options to its visitors.
+              </p>
+              <p>
+                Road Transfer From Zanzibar Airport To Amaan Bungalows: <br />
+                <span class="travel-time">1 hour 20 minutes</span>
+                <br />
+                Distance: <span class="travel-time">64 km</span> <br />
+              </p>
+            </div>
+            <div class="way">
+              <span class="day">day 2 - 3</span>
+              <h3>Full-Day At Leisure</h3>
+              <p>
+                Enjoy your beach holiday along the turquoise water of the Indian
+                Ocean that contrasts the white powdery sands of the coast,
+                offering you the most stunning views of the natural beauty of
+                the island. Feel the refreshing breeze as you relax along the
+                exquisite shores.
+              </p>
+              <p>
+                Nungwi Beach is one of the prettiest and most popular beaches in
+                the Zanzibar islands. Located on the northernmost tip of the
+                islands, it is an outstanding beach vacation spot that offers
+                water sports, restaurants, and nightlife.
+              </p>
+              <p>
+                Zanzibar has several picturesque white beaches - Kiwengwa,
+                Pongwe, Uroa, Michamvi and Bwejuu, that compete in magnificence
+                and serenity. The Fumba Beach on the west in Menai Bay will
+                amaze you with its golden sands along a backdrop of palm trees.
+              </p>
+              <p>
+                Safari Boyz can organize visits for you to explore the other
+                beaches of Zanzibar at an additional cost.
+              </p>
+            </div>
+            <div class="way">
+              <span class="day">day 4</span>
+              <h3>Amaan Bungalows - Stone Town</h3>
+              <p>
+                Your driver reports at Amaan Bungalows for a road transfer to
+                Stone Town. On the route, you will visit the spice plantations
+                for a tour that will awaken your senses. On the spice tour, you
+                can pick, smell and savor the spices and fruits you have
+                probably never seen on the supermarket shelf. You can observe
+                closely how local farmers produce some of the world’s most
+                exotic spices and fruits like cloves, star fruit, lemon grass,
+                mangosteen, lipstick trees and many more, depending on the
+                season.
+              </p>
+              <p>
+                After the spice tour, drive to Stone Town for check-in at the
+                hotel. After a lunch break, proceed for a guided tour to Stone
+                Town, a UNESCO World Heritage Site, and the capital township of
+                Zanzibar, where you will learn about the architecture and
+                history of Zanzibar. You will also visit the colorful markets of
+                Zanzibar adorned with fresh vegetables and the smell of tropical
+                fruits.
+              </p>
+              <p>
+                After your Stone Town tour, check-in at the Dhow Palace Hotel
+                for an overnight stay.
+              </p>
+              <h4>Accommodation At:</h4>
+              <p>Dhow Palace Hotel</p>
+              <p>Meal Plan: Bed-and-breakfast</p>
+            </div>
+            <div class="way">
+              <span class="day">day 5</span>
+              <h3>Half-Day Prison Island Tour</h3>
+              <p>
+                Your driver reports to the hotel for a half-day tour to Prison
+                Island. Have breakfast and depart for the drive. Changuu Island,
+                also known as Prison Island, is just near the coast of Stone
+                Town, Zanzibar. Now a tourist attraction, Prison Island was once
+                a place where slaves were detained and at one point, it also
+                served as a place of quarantine. The biggest attraction of the
+                island is the colony of giant tortoises. Learn more about the
+                island’s history as you explore its ancient prison buildings,
+                meet giant tortoises at the island sanctuary and get a glance
+                under the calm waters while swimming and snorkeling around the
+                island’s coral reefs.
+              </p>
+              <p>
+                After the Prison Island tour, a road transfer back to the Dhow
+                Palace Hotel where you can spend the afternoon at your leisure.
+                Overnight stay at the hotel.
+              </p>
+            </div>
+            <div class="way">
+              <span class="day">day 6</span>
+              <h3>
+                Dhow Palace Hotel - Abeid Amani Karume International Airport
+              </h3>
+              <p>
+                Have breakfast and check out from the Dhow Palace Hotel. Your
+                driver reports at the hotel for a road transfer to the Abeid
+                Amani Karume International Airport on time for your departure
+                flight.
+              </p>
+              <h4>End of Trip</h4>
+              <h4>Price Starting From:</h4>
+              <p>$1,460 USD for 2 people</p>
+            </div>
+          </div>
+          <div class="form-wrapper">
+            <p>
+              Fill in your details to book this tour today. Or
+              <a href="contact.html" class="contact-btn">Contact us</a> to book
+              a specialised tour or for any other enquiries you may have.
+            </p>
+            <form action="">
+              <input type="text" name="name" id="name" placeholder="Name" />
+              <input
+                type="text"
+                name="destination"
+                id="destination"
+                placeholder="Destination"
+              />
+              <input
+                type="number"
+                name="budget"
+                id="budget"
+                placeholder="Budget (USD)"
+              />
+              <div class="input-row">
+                <input type="text" name="pax" id="pax" placeholder="Pax" />
+                <select name="Accomodation" id="accomodation">
+                  <option value="" disabled selected hidden>
+                    Accomodation
+                  </option>
+                  <option value="option1">option1</option>
+                  <option value="option2">option2</option>
+                </select>
+              </div>
+              <input
+                type="email"
+                name="email"
+                id="email"
+                placeholder="Email Address"
+              />
+              <input
+                type="tel"
+                name="tel"
+                id="tel"
+                placeholder="Telephone Number"
+              />
+              <div class="input-row">
+                <input
+                  type="date"
+                  name="start-date"
+                  id="start-date"
+                  placeholder="Start Date"
+                />
+                <input
+                  type="date"
+                  name="end-date"
+                  id="end-date"
+                  placeholder="End Date"
+                />
+              </div>
+              <button type="submit" class="submit-form">
+                <span>send custom tour details</span>
+                <span><i class="fa-solid fa-arrow-right"></i></span>
+              </button>
+              <a href="#" class="whatsapp-btn">
+                <span><img src="<?php bloginfo('template_directory');?>/images//whatsapp.png" alt="" /> </span
+                ><span>or reach us on whatsapp</span>
+              </a>
+              <p>
+                By booking here you agree to our
+                <a href="terms.html" class="terms-link">Terms & Conditions</a>.
+              </p>
+            </form>
+          </div>
+        </div>
+        <div class="det-down">
+          <div class="inclusion">
+            <h3>INCLUSIONS</h3>
+            <ul>
+              <li>
+                3 nights’ accommodation at Amaan Bungalows in pool view rooms on
+                a full-board basis and 2 nights at Dhow Palace Hotel in standard
+                double rooms on bed-and-breakfast based on 2 people sharing
+              </li>
+              <li>All ground transfer</li>
+              <li>Stone Town tour</li>
+              <li>Spice tour</li>
+              <li>Prison Island tour</li>
+              <li>Entrance fees on excursions</li>
+              <li>Professional guide on tours</li>
+              <li>All government taxes</li>
+            </ul>
+          </div>
+          <div class="inclusion">
+            <h3>EXCLUSIONS</h3>
+            <ul>
+              <li>International and local air ticket</li>
+              <li>Visa fees</li>
+              <li>Tips</li>
+              <li>Lunch and dinner</li>
+              <li>All things that are not mentioned in the program</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!-- End About Section -->
+    <!-- Start Popular Packages Section -->
+    <section
+      class="all-single-packages popular-packages bg-orange"
+      id="popular-packages"
+    >
+      <h2>RELATED TOURS</h2>
+      <div class="container">
+        <div class="packages flex flex-cl">
+          <div class="package-row package-middle">
+            <a href="royalZanzibar.html" class="package">
+              <img src="<?php bloginfo('template_directory');?>/images//royalzanzibar.jpeg" alt="royalzanzibar" />
+              <h3 class="p-txt">
+                <span class="title-head"> Royal </span>
+                <span class="title">Zanzibar</span>
+              </h3>
+              <div class="overlay"></div>
+            </a>
+            <a href="kendwaRocks.html" class="package">
+              <img src="<?php bloginfo('template_directory');?>/images//kendwarocks.jpeg" alt="kendwarocks" />
+              <h3 class="p-txt"></h3>
+              <h3 class="p-txt">
+                <span class="title-head"> Unforgettable </span>
+                <span class="title">Kendwa Rocks</span>
+              </h3>
+              <div class="overlay"></div>
+            </a>
+          </div>
+          <div class="package-row">
+            <a href="goldZanzibar.html" class="package">
+              <img src="<?php bloginfo('template_directory');?>/images//goldzanzibar.jpeg" alt="goldzanzibar" />
+              <h3 class="p-txt">
+                <span class="title-head"> Gold </span>
+                <span class="title">Zanzibar</span>
+              </h3>
+              <div class="overlay"></div>
+            </a>
+            <a href="essque.html" class="package">
+              <img src="<?php bloginfo('template_directory');?>/images//essque.jpeg" alt="essque" />
+              <h3 class="p-txt"></h3>
+              <h3 class="p-txt">
+                <span class="title-head"> Heavenly </span>
+                <span class="title">Essque Zalu</span>
+              </h3>
+              <div class="overlay"></div>
+            </a>
+            <a href="amaan.html" class="package">
+              <img src="<?php bloginfo('template_directory');?>/images//amaan.jpeg" alt="amaan" />
+              <h3 class="p-txt">
+                <span class="title-head"> Majestic </span>
+                <span class="title">Amaan Bungalows</span>
+              </h3>
+              <div class="overlay"></div>
+            </a>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!-- End Popular Packages Section -->
+
+    <script src="js/main.js"></script>
+
+
+
+
+<?php get_footer();?>
