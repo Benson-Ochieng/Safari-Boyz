@@ -38,6 +38,65 @@
             ></a>
           </div>
 
+
+
+    <!-- Pop Up Form On home page "Start Booking now package" -->
+
+          <div class="pop-up-form">
+      <div class="form-wrapper">
+        <div class="close-btn"><i class="fa-regular fa-circle-xmark"></i></div>
+        <p>Kindly fill in your details to book a package.</p>
+        <form action="">
+          <input type="text" name="name" id="name" placeholder="Name" />
+          <input
+            type="text"
+            name="destination"
+            id="destination"
+            placeholder="Destination"
+          />
+          <div class="input-group">
+            <input type="text" name="pax" id="pax" placeholder="Pax" />
+            <input
+              type="number"
+              name="no-days"
+              id="no-days"
+              placeholder="No. of days"
+              min="1"
+            />
+          </div>
+          <select name="Accomodation" id="accomodation">
+            <option value="" disabled selected hidden>Resident</option>
+            <option value="option1">Resident</option>
+            <option value="option2">Non Resident</option>
+          </select>
+          <input
+            type="email"
+            name="email"
+            id="email"
+            placeholder="Email Address"
+          />
+          <input
+            type="tel"
+            name="tel"
+            id="tel"
+            placeholder="Telephone Number"
+          />
+          <button type="submit" class="submit-form">
+            <span>Submit</span>
+            <span><i class="fa-solid fa-arrow-right"></i></span>
+          </button>
+          <a href="#" class="whatsapp-btn">
+            <span><img src="images/whatsapp.png" alt="" /> </span
+            ><span>or reach us on whatsapp</span>
+          </a>
+          <p>
+            By booking here you agree to our
+            <a href="terms.html" class="terms-link">Terms & Conditions</a>.
+          </p>
+        </form>
+      </div>
+    </div>
+
           <nav>
             <div class="nav-wrapper">
               <a href="/safariboyz/" class="logo">
